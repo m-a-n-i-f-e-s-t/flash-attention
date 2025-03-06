@@ -2,6 +2,8 @@
 requires = [
     "setuptools>=42",
     "wheel",
+    "packaging",
+    "ninja",
     "numpy",
     "torch>=2.5.1"
 ]
